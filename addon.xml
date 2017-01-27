@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.hak5"
+	name="Hak5"
+	version="1.0.0"
+	provider-name="fullstackadept">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.0.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Hak5 | Threat Wire | Metasploit Minute | HakTip | TekThing</summary>
+    <description lang="en">Hak5: Weekly dose of Technolust; Threat Wire: Security, Privacy, and Internet Freedom News; TekThing, HakTip, Metasploit Minute and more!</description>
+    <platform>all</platform>
+    <forum>n/a</forum>
+    <website>n/a</website>
+  </extension>
+</addon>
