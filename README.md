@@ -6,3 +6,7 @@ Kodi/XBMC video plugin containing
 - TekThing
 - HakTip
 - Metasploit Minute
+
+To build .zip that can be installed to Kodi:
+
+    git archive --prefix=plugin.video.hak5/ -o plugin.video.hak5.zip HEAD
