@@ -71,7 +71,6 @@ def hak5_list():
             'title' : 'HakTip: Linux Terminal - Getting Started!',
             'id' : 'PLW5y1tjAOzI2ZYTlMdGzCV8AJuoqW5lKB',
             'thumbnail' : 'https://i.ytimg.com/vi/b5NmtmNwMgU/hqdefault.jpg?custom=true&w=246&h=138&stc=true&jpg444=true&jpgq=90&sp=68&sigh=saLY0xKe6aERbleE7Vj63zaD3rY'
-            # https://i.ytimg.com/vi/b5NmtmNwMgU/hqdefault.jpg?custom=true&w=492&h=276&stc=true&jpg444=true&jpgq=90&sp=68&sigh=saLY0xKe6aERbleE7Vj63zaD3rY
         },
         {
             'title' : 'HakTip: Maltego - Open Source Intelligence and Forensics',
